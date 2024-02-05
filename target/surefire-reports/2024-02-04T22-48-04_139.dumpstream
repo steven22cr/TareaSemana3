@@ -1,0 +1,5 @@
+# Created at 2024-02-04T22:48:04.266
+Boot Manifest-JAR contains absolute paths in classpath 'E:\U\Cuatri VII\Ambiente Web Servidor\Pokedex\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
